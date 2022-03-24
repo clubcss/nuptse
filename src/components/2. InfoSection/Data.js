@@ -1,16 +1,26 @@
 export const homeObjOne = {
-    id: 'about',
-    lightBg: false,
-    lightText: true,
-    lightTextDesc: true,
-    topLine: "About",
-    headline: "",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed condimentum orci, in sagittis tortor. Maecenas aliquam nibh in odio aliquet, malesuada rutrum diam tempus. Nunc a neque id orci porttitor ornare ac vitae nibh. Nam sodales, risus at dictum feugiat, arcu diam congue libero, viverra porttitor enim lorem sit amet massa. Integer eget nulla quis eros iaculis consectetur tincidunt ut dolor. Fusce in mattis odio, ac commodo enim. Aliquam ornare quam nec velit dapibus ultricies.",
-    buttonLabel: "Get Started",
-    imgStart: true,
-    img: require("../../images/about.svg").default,
-    alt: "car",
-    dark: true,
-    primary: true,
-    darkText: false,
-}
+	id: "about",
+	lightBg: false,
+	lightText: true,
+	lightTextDesc: true,
+	topLine: "About",
+	headline: "",
+	description: `Nuptse does not involve any spirits of
+competitiveness, but it involves a certain
+degree of dedication as it will be the only
+24-hour event among the 9 at Echor.
+This Open Hack Sprint is a fast-paced event,
+where candidates will be part of a
+collaborative, learning atmosphere to create
+and build projects for a healthy internet
+experience. This event will include diverse
+sides of academicians, scientists, engineers,
+artists, etc.`,
+	buttonLabel: "Get Started",
+	imgStart: true,
+	img: require("../../images/about.svg").default,
+	alt: "car",
+	dark: true,
+	primary: true,
+	darkText: false,
+};
