@@ -26,8 +26,7 @@ const HeroSection = () => {
 					NUPTSE
 				</HeroH1>
 				<HeroP>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed
-					condimentum orci.
+				A fun, fast-paced, two-day collaborative event to hack and build projects for a healthy Internet and to protect the web we all love. It will be a diverse network of scientists, educators, artists, engineers, students and others as we come together in person and online to innovate in the open.
 				</HeroP>
 				<HeroBtnWrapper>
 					<Button
