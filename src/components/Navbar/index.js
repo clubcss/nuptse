@@ -124,19 +124,19 @@ const Navbar = ({ toggle }) => {
                                 activeClass="active"
                             >FAQs</NavLinks>
                         </NavItem> */}
-						{/* <NavItem>
-              <NavLinks
-                to="team"
-                smooth="true"
-                duration={500}
-                spy={true}
-                exact="true"
-                offset={-80}
-                activeClass="active"
-              >
-                Team
-              </NavLinks>
-            </NavItem> */}
+						<NavItem>
+							<NavLinks
+								to="team"
+								smooth="true"
+								duration={500}
+								spy={true}
+								exact="true"
+								offset={-80}
+								activeClass="active"
+							>
+								Team
+							</NavLinks>
+						</NavItem>
 					</NavMenu>
 				</NavbarContainer>
 			</Nav>
